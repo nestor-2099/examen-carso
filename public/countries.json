@@ -1,0 +1,43 @@
+{
+  "countries": [{
+    "id": 1,
+    "name": "México",
+    "states": [{
+      "id": 1,
+      "name": "CDMX"
+    },{
+      "id": 2,
+      "name": "Guadalajara"
+    }]
+  }, {
+    "id": 2,
+    "name": "Estados Unidos",
+    "states": [{
+      "id": 1,
+      "name": "Texas"
+    },{
+      "id": 2,
+      "name": "Michigan"
+    }]
+  }, {
+    "id": 3,
+    "name": "Argentina",
+    "states": [{
+      "id": 1,
+      "name": "Misiones"
+    },{
+      "id": 2,
+      "name": "Salta"
+    }]
+  }, {
+    "id": 4,
+    "name": "Brasil",
+    "states": [{
+      "id": 1,
+      "name": "Bahía"
+    },{
+      "id": 2,
+      "name": "Pernambuco"
+    }]
+  }]
+}
