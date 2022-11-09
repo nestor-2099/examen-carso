@@ -15,6 +15,7 @@ class App extends React.Component {
           <FormComponent ></FormComponent>
     
         </div>
+        <p className="text-center disclaimer-txt">Néstor Guadalupe García Ortega</p>
       </section>
     )
   }
